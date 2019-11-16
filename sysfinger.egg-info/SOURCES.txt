@@ -1,0 +1,6 @@
+setup.py
+sysfinger.egg-info/PKG-INFO
+sysfinger.egg-info/SOURCES.txt
+sysfinger.egg-info/dependency_links.txt
+sysfinger.egg-info/requires.txt
+sysfinger.egg-info/top_level.txt
