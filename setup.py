@@ -5,7 +5,7 @@ setup(
     url='https://github.com/psytron/sysfinger',
     author='Mico Malecki',
     author_email='m@psytron.com',
-    packages=['os'], # Needed to actually package
+    packages=[], # Needed to actually package
     install_requires=['pyyaml'],# Needed for dependencies
     version='0.22',
     license='PSYTRON', # Can be anything
