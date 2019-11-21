@@ -5,3 +5,5 @@ Small python module to get all derive all kinds of IDs from the system
   >>> import sysfinger
   >>> sysfinger.basic()
   returns machine_string_basic
+
+### subq
