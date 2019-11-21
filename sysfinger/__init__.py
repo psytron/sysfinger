@@ -8,7 +8,7 @@ def run():
 import platform as p
 import uuid
 import hashlib
-import netifaces
+#import netifaces
 
 def basic( md5=False ):
     """
@@ -33,7 +33,8 @@ def basic( md5=False ):
 
 
 def eth0():
-    netifaces.interfaces() # returns e.g. ['lo', 'eth0', 'tun2']
-    return netifaces.ifaddresses('eth0')[netifaces.AF_LINK]
+    print(' eth 0')
+    #netifaces.interfaces() # returns e.g. ['lo', 'eth0', 'tun2']
+    #return netifaces.ifaddresses('eth0')[netifaces.AF_LINK]
 
 
