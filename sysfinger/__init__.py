@@ -3,7 +3,7 @@
 
 
 def run():
-    print(' YES SYSFINGER ')
+    print(' YES. SYSFINGER ')
 
 import platform as p
 import uuid
