@@ -6,4 +6,4 @@ Small python module to get all derive all kinds of IDs from the system
   >>> sysfinger.basic()
   returns machine_string_basic
 
-### subq
+### subqyo jelly
